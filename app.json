@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "BayShoreAthanApp",
+    "slug": "BayShoreAthanApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
