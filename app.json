@@ -5,6 +5,24 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "intentFilters": [
+        {
+          "action": "MAIN",
+          "data": {},
+          "category": [
+            "LEANBACK_LAUNCHER",
+            "LAUNCHER"
+          ]
+        }
+      ]
+     
+    },
+    "extra": {
+      "eas": {
+        "projectId": "be8a5f6c-bff6-4bf6-b7c1-7bb3cf633620"
+      }
+    }
   }
 }
